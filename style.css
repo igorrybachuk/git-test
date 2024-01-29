@@ -10,6 +10,7 @@ html {
 
 img {
 	max-width: 100%;
+  width: auto;
 }
 
 body {
@@ -34,9 +35,6 @@ body {
 	margin: 0;
 	margin-bottom: 30px;
 	max-width: 730px;
-	font-size: 20px;
-	line-height: 160%;
-	color: #333;
 }
 
 .text:last-child {
