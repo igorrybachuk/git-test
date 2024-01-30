@@ -31,12 +31,6 @@ body {
 	color: #3f2aff;
 }
 
-.text {
-	margin: 0;
-	margin-bottom: 30px;
-	max-width: 730px;
-}
-
 .text:last-child {
 	margin-bottom: 0;
 }
