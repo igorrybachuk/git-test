@@ -28,7 +28,7 @@ body {
 	margin: 0;
 	margin-bottom: 30px;
 	font-size: 60px;
-	color: #3f2aff;
+	color: hsl(340, 100%, 58%);
 }
 
 .text:last-child {
